@@ -1,0 +1,4 @@
+baseURL = 'https://demize.dev/'
+languageCode = 'en-us'
+title = 'demize's Example Hugo Site'
+theme = "ananke"
